@@ -1,0 +1,156 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="forloop.first" />
+            <item index="1" class="java.lang.String" itemvalue="endif" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="div" />
+            <item index="7" class="java.lang.String" itemvalue="input" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="NonAsciiCharacters" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+            <item index="1" class="java.lang.String" itemvalue="pytz" />
+            <item index="2" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="3" class="java.lang.String" itemvalue="wcwidth" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E127" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="glp.app.models.Mensagens" />
+          <option value="nixauto.nix.models.get_image_filename" />
+          <option value="core.app.models.Images.objects" />
+          <option value="core.app.models.Image.objects" />
+          <option value="projeto.app.models.Doc.objects" />
+          <option value="core.app.models.Anuncio.objects" />
+          <option value="antherus.landingpage.views.Leads" />
+          <option value="antherus.landingpage.models.Formulario.objects" />
+          <option value="antherus.landingpage.models.CadastroClientes.objects" />
+          <option value="antherus.landingpage.models.Produto.*" />
+          <option value="antherus.landingpage.models.Perfil.objects" />
+          <option value="rgtv.rgtv_site.models.Noticia.*" />
+          <option value="projeto.aplicacao.models.Formulario.objects" />
+          <option value="django.forms.forms.ModelForm" />
+          <option value="core.app.views.file" />
+          <option value="rgtv.rgtv_site.models.Filiais.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes.objects" />
+          <option value="rgtv.rgtv_site.models.BannerNoticiaDestaque.objects" />
+          <option value="rgtv.rgtv_site.models.BannerUltimasNoticias.objects" />
+          <option value="rgtv.rgtv_site.models.BannerPolicia.objects" />
+          <option value="rgtv.rgtv_site.models.BannerEsportes.objects" />
+          <option value="rgtv.rgtv_site.models.BannerClassificados.objects" />
+          <option value="rgtv.rgtv_site.models.BannerSaude.objects" />
+          <option value="rgtv.rgtv_site.models.BannerEventosAgenda.objects" />
+          <option value="rgtv.rgtv_site.models.BannerPolitica.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner1.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner2.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner3.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner4.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner5.objects" />
+          <option value="rgtv.rgtv_site.models.CarrosselBanner6.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes1.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes2.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes3.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes4.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes5.objects" />
+          <option value="rgtv.rgtv_site.models.CarrousselAnunciantes6.objects" />
+          <option value="core.app.models.Texto.objects" />
+          <option value="core.app.models.Noticia.objects" />
+          <option value="config.escola.models.Aluno.objects" />
+          <option value="config.config.urls.escola" />
+          <option value="django.views.AlunosViewSet" />
+          <option value="escola.models.Aluno.objects" />
+          <option value="config.anuncio.models.Anuncio.objects" />
+          <option value="anuncio.models.Anuncio.objects" />
+          <option value="anuncios.models.Anuncio.objects" />
+          <option value="integrador.models.Anuncio.objects" />
+          <option value="rest_framework.authtoken.models.Token.objects" />
+          <option value="anuncio.models.Anunciante.objects" />
+          <option value="integrador.models.Cores.objects" />
+          <option value="player.models.Biblicoteca.objects" />
+          <option value="lp.models.Leads.objects" />
+          <option value="core_agenda.agenda_app.models.Agendamento.objects" />
+          <option value="base.app.models.Agendamento.objects" />
+          <option value="lp.models.Agendamento.*" />
+          <option value="lp.models.Atendimento.objects" />
+          <option value="lp.models.Clientes.objects" />
+          <option value="lp.models.Perfil.objects" />
+          <option value="lp.models.Tagmeta.objects" />
+          <option value="lp.models.TagGoogle.objects" />
+          <option value="property.create" />
+          <option value="lp.models.TwilioAccountSid.objects" />
+          <option value="lp.models.TwilioAuthToken.*" />
+          <option value="site.lp.models.Perfil.objects" />
+          <option value="site.lp.models.TagGoogle.objects" />
+          <option value="site.lp.models.Tagmeta.objects" />
+          <option value="site.lp.models.LandingPage.*" />
+          <option value="site.lp.models.Leads.*" />
+          <option value="site.lp.models.Carousel.*" />
+          <option value="psl_lp.lp.models.LeadsPsl.objects" />
+          <option value="site.lp.models.ItemEmprrendimento.objects" />
+          <option value="site.lp.models.ItensDestaque.*" />
+          <option value="base.app.models.Localizacao.objects" />
+          <option value="site.lp.models.CadastroEmpreendimento.objects" />
+          <option value="site.lp.models.Cadastro.objects" />
+          <option value="lp.models.ItensDestaque.*" />
+          <option value="lp.models.LandingPage.objects" />
+          <option value="lp.models.Cores.objects" />
+          <option value="lp.models.TagGoogleBody.*" />
+          <option value="lp.models.ItensOpcioanis.objects" />
+          <option value="lp.models.QtdeQuartos.objects" />
+          <option value="lp.models.Qtdesuites.*" />
+          <option value="lp.models.QtdeVagaGaragem.*" />
+          <option value="typing.NamedTuple.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+  </profile>
+</component>
